@@ -230,6 +230,7 @@ display: none;
 }
 .lovestory .img1 {
     width: 220px;
+    max-width: 340px;
     position: relative;
     margin-top: 20px;
     overflow-x: hidden;
